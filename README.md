@@ -1,4 +1,4 @@
-# Pairs — Memory Card Game
+#  Memory Card Game
 
 A browser-based memory card game built with PHP, vanilla JavaScript, and Bootstrap. Players flip cards to find matching emoji pairs across three difficulty levels. Includes user registration, a custom layered emoji avatar system, and a shared leaderboard — all without a database.
 
